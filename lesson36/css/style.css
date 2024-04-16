@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+
+}
+
+.scroll {
+    background: #e8eaeb;
+    overflow: auto;
+    display: inline-block;
+    width: 1525px;
+    height: 550px;
+    border: 1px #080808;
+    border-style: ridge;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+
+}
+
+
+
+.block1 {
+    background: rgb(231, 195, 104);
+    display: inline-block;
+    border: 1px solid rgb(5, 4, 4);
+    border-radius: 30px;
+    box-shadow: inset 0px 0px 5px 1px;
+    height: 220px;
+    width: 280px;
+    padding: 20px 30px;
+    margin: 7px 10px 7px 10px;
+
+}
