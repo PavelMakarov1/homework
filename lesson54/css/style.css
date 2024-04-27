@@ -1,0 +1,39 @@
+body {
+    background: #383737;
+}
+
+.text {
+    color: #ffff;
+    font-size: 35px;
+}
+
+
+
+.conteiner {
+
+    height: 100vh;
+    width: 100vw;
+}
+
+.figure-inner {
+    position: fixed;
+    left: 50%;
+    right: 50px;
+    bottom: 100px;
+}
+
+.figure-rectangle {
+    min-height: 100px;
+    background: #ffffff;
+    border-radius: 10px;
+}
+
+.figure-circle {
+    position: relative;
+    left: 100px;
+    bottom: 50px;
+    width: 100px;
+    height: 100px;
+    background: #d53838;
+    border-radius: 50%;
+}
