@@ -1,0 +1,43 @@
+body {
+    background-color: #333;
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 5rem;
+    padding-top: 5vh;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+    text-align: center;
+}
+
+/* ====================================================== */
+
+.wrapper {
+    position: relative;
+}
+.title::before {
+    content: "";
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background: red;
+    border: 5px solid;
+    transform: translate(-150px, -10px);
+}
+
+.title::after {
+    content: "";
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background: rgb(17, 11, 198);
+    border: 5px solid;
+    transform: translate(50px, -10px);
+}
