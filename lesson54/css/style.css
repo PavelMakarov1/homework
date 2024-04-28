@@ -15,20 +15,20 @@ body {
     width: 100vw;
 }
 
-.figure-inner {
+.figure__inner {
     position: fixed;
     left: 50%;
     right: 50px;
     bottom: 100px;
 }
 
-.figure-rectangle {
+.figure__rectangle {
     min-height: 100px;
     background: #ffffff;
     border-radius: 10px;
 }
 
-.figure-circle {
+.figure__circle {
     position: relative;
     left: 100px;
     bottom: 50px;
