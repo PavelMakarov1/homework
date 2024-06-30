@@ -1,0 +1,14 @@
+<svg width="13.000000" height="18.000000" viewBox="0 0 13 18" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip23_2578">
+			<rect id="fa-solid:ruble-sign" width="13.000000" height="18.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="fa-solid:ruble-sign" width="13.000000" height="18.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip23_2578)">
+		<path id="Vector" d="M8.1 11.25C10.98 11.25 13 9.15 13 6.15C13 3.15 10.98 1.12 8.1 1.12L2.57 1.12C2.34 1.12 2.16 1.31 2.16 1.54L2.16 8.81L0.4 8.81C0.18 8.81 0 9 0 9.23L0 10.82C0 11.06 0.18 11.25 0.4 11.25L2.16 11.25L2.16 12.37L0.4 12.37C0.18 12.37 0 12.56 0 12.79L0 14.2C0 14.43 0.18 14.62 0.4 14.62L2.16 14.62L2.16 16.45C2.16 16.68 2.34 16.87 2.57 16.87L4.55 16.87C4.77 16.87 4.96 16.68 4.96 16.45L4.96 14.62L10.42 14.62C10.65 14.62 10.83 14.43 10.83 14.2L10.83 12.79C10.83 12.56 10.65 12.37 10.42 12.37L4.96 12.37L4.96 11.25L8.1 11.25ZM4.96 3.54L7.62 3.54C9.2 3.54 10.16 4.56 10.16 6.15C10.16 7.76 9.2 8.81 7.58 8.81L4.96 8.81L4.96 3.54Z" fill="#121214" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
