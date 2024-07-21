@@ -63,6 +63,7 @@
     padding: 11px 45px 25px 45px;
     max-width: 175px;
     max-height: 45px;
+    cursor: pointer;
 
     color: var(--color-button);
     background: #F4F4F4;
