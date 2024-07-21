@@ -1,0 +1,24 @@
+@import "swiper-bundle.min.css";
+@import "fonts.css";
+@import "reset.css";
+@import "global.css";
+
+
+
+
+
+@import "header.css";
+
+@import "main__info.css";
+@import "main__routes.css";
+@import "main__test.css";
+@import "main__photo.css";
+@import "main__video.css";
+@import "main__team.css";
+@import "main__services.css";
+@import "main__super-offer.css";
+@import "main__certificate.css";
+@import "main__questions.css";
+@import "main__additional-services.css";
+
+@import "footer.css";
